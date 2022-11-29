@@ -20,7 +20,7 @@ deployment:
       hostnames:
         - "test.nhn.wmi"
   image:
-    name: "45c6c387-kr2-registry.container.nhncloud.com/ncr/istio-api-gateway"
+    name: "2f477333-kr2-registry.container.nhncloud.com/ncr02/istio-api-gateway"
     tag: "2"
     pullPolicy: Always
   command:
